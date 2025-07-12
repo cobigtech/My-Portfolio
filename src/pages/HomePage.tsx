@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Code2, Palette, Zap, Globe, Users, Award, Star, Briefcase, Clock } from 'lucide-react';
+import { ArrowRight, Code2, Palette, Zap, Globe, Users, Award, Star, Briefcase, Clock, Download } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const HomePage: React.FC = () => {
@@ -129,6 +129,7 @@ const HomePage: React.FC = () => {
               to="/contact"
               className="inline-flex items-center px-8 py-4 border-2 border-primary-600 text-primary-600 dark:text-primary-400 rounded-full hover:bg-primary-600 hover:text-white transition-colors duration-200"
             >
+              <Download className="mr-2 w-5 h-5" />
               履歴書
             </Link>
           </motion.div>

@@ -62,13 +62,7 @@ const Header: React.FC = () => {
 
           <div className="flex items-center space-x-4">
             <ThemeToggle />
-            <Link
-              to="/contact"
-              className="inline-flex items-center px-8 py-4 border-2 border-primary-600 text-primary-600 dark:text-primary-400 rounded-full hover:bg-primary-600 hover:text-white transition-colors duration-200"
-            >
-              <Download className="mr-2 w-5 h-5" />
-              履歴書
-            </Link>
+
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
               className="md:hidden p-2 rounded-md text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800"
