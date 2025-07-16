@@ -146,12 +146,12 @@ const AboutPage: React.FC = () => {
               <div className="flex items-center space-x-4">
                 <User className="w-6 h-6 text-primary-600" />
                 <span className="text-lg font-medium text-gray-900 dark:text-white">
-                  道添 春樹 (Michizoe Haruki)
+                小林 直樹 (Kobayashi Naoki)
                 </span>
-              </div>
+              </div> 
               <div className="mt-4 text-gray-600 dark:text-gray-300">
-                <p>Email: michizoeharuki@gmail.com</p>
-                <p>GitHub: <a href="https://github.com/ninjia-yeti" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700">github.com/ninjia-yeti</a></p>
+                <p>Email: kobayashi.naoki@gmail.com</p>
+                <p>GitHub: <a href="https://github.com/cobigtech" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700">github.com/ninjia-yeti</a></p>
               </div>
             </motion.div>
 
