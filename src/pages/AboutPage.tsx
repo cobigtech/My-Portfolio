@@ -151,7 +151,7 @@ const AboutPage: React.FC = () => {
               </div> 
               <div className="mt-4 text-gray-600 dark:text-gray-300">
                 <p>Email: kobayashi.naoki@gmail.com</p>
-                <p>GitHub: <a href="https://github.com/cobigtech" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700">github.com/ninjia-yeti</a></p>
+                <p>GitHub: <a href="https://github.com/cobigtech" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700">github.com/cobigtech</a></p>
               </div>
             </motion.div>
 

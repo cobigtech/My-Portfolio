@@ -34,7 +34,7 @@ const ContactPage: React.FC = () => {
     {
       icon: Mail,
       title: 'メール',
-      value: 'michizoeharuki@gmail.com',
+      value: 'kobayashi.naoki@gmail.com',
       description: '24時間以内に返信いたします'
     },
     {
@@ -42,7 +42,7 @@ const ContactPage: React.FC = () => {
       title: 'GitHub',
       value: 'github.com/ninjia-yeti',
       description: 'コードとプロジェクトをご覧ください',
-      link: 'https://github.com/ninjia-yeti'
+      link: 'https://github.com/cobigtech'
     },
     {
       icon: MapPin,
@@ -205,7 +205,7 @@ const ContactPage: React.FC = () => {
                     value={formData.name}
                     onChange={handleInputChange}
                     className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:ring-2 focus:ring-primary-500 focus:border-transparent"
-                    placeholder="山田 太郎"
+                    placeholder="小林 直樹"
                   />
                 </div>
 
