@@ -32,7 +32,8 @@ const ProjectsPage: React.FC = () => {
       date: '2023年11月',
       status: '運用中',
       demo: 'https://organic-market-demo.com',
-      features: ['定期購入', '産地情報', '栄養成分表示', 'レシピ提案']
+      features: ['定期購入', '産地情報', '栄養成分表示', 'レシピ提案'],
+      github: 'https://github.com/your-repo' // ←追加
     },
     {
       id: 2,

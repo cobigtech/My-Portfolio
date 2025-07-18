@@ -85,7 +85,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {currentYear} 道添 春樹 (Michizoe Haruki). All rights reserved.
+            © {currentYear} 小林 直樹 (Kobayashi Naoki). All rights reserved.
           </p>
           <div className="flex items-center space-x-1 text-gray-400 text-sm mt-4 md:mt-0">
             <span>Made with</span>
