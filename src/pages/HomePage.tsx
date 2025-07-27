@@ -58,7 +58,7 @@ const HomePage: React.FC = () => {
     {
       icon: Star,
       title: '豊富な実績',
-      description: '6年以上の経験と80以上のプロジェクト実績'
+      description: '7年以上の経験と80以上のプロジェクト実績'
     }
   ];
 
@@ -109,7 +109,7 @@ const HomePage: React.FC = () => {
             transition={{ delay: 0.7, duration: 0.8 }}
             className="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8 font-noto-sans"
           >
-            8年以上の豊富な経験で、革新的なWebソリューションを提供
+            7年以上の豊富な経験で、革新的なWebソリューションを提供
           </motion.p>
 
           <motion.div

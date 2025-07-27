@@ -355,7 +355,7 @@ const AboutPage: React.FC = () => {
               キャリアの歩み
             </h2>
             <p className="text-xl text-gray-600 dark:text-gray-300">
-              8年以上の技術者としての成長の軌跡
+              7年以上の技術者としての成長の軌跡
             </p>
           </motion.div>
 
